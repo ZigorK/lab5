@@ -16,7 +16,7 @@ int main(int argc, char* argv[]) {
          * выполнения задания нет необходимости изучать
          * или менять содержимое Application. Для начала
          * лучше сфокусироваться на Ball.hpp, Ball.cpp и
-         * World.cpp
+         * World.cpp 132
          */
         Application app("physics");
         app.run(w);
