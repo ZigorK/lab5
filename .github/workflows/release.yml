@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - lab5
-      - mian
+      - main
       - feature/github_actions
 
 jobs:
